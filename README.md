@@ -1,0 +1,2 @@
+# LinearRegressionClassifier
+very bad algorithm
