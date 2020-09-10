@@ -1,2 +1,2 @@
 # LinearRegressionClassifier
-very bad algorithm
+A very bad algorithm
